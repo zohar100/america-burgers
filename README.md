@@ -1,4 +1,4 @@
-## Street Shop
+# AmericaBurgers
 
 > Food order platform built with React & Firebase.
 
