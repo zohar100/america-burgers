@@ -12,6 +12,12 @@
 }
 
 .Logo span {
-  font-size: large;
+  font-size: medium;
   font-weight: bold;
+}
+
+@media (min-width: 600px) {
+  .Logo span {
+    font-size: large;
+  }
 }
